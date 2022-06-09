@@ -1,0 +1,52 @@
+Quality,Item Name,Type,Brand,Core,Attribute 1,Attribute 2,Mod,Talent
+Exotic,Acosta's Go-Bag,E,Exotic,Skill Tier,Skill Haste,Skill Damage,U,One in Hand...
+High End,5.11 Tactical,A,5.11 Tactical,Armor,A,A,D,A
+Gearset,Aces & Eights,S,Aces & Eights,Weapon Damage,A,,O,Poker Face
+High End,Airaldi Holdings,A,Airaldi Holdings,Weapon Damage,A,A,O,A
+High End,Alps Summit Armaments,A,Alps Summit Armaments,Skill Tier,A,A,U,A
+Named,Percussive Maintenance,N,Alps Summit Armaments,Skill Tier,A,A,U,Perfect Tech Support
+High End,Badger Tuff,A,Badger Tuff,Armor,A,A,O,A
+High End,Ceska Vyroba s.r.o.,A,Ceska Vyroba s.r.o.,Weapon Damage,A,A,D,A
+Named,Devil's Due,N,Ceska Vyroba s.r.o.,Weapon Damage,A,A,D,Perfect Clutch
+High End,China Light Industries Corporation,A,China Light Industries Corporation,Skill Tier,A,A,U,A
+Named,Strategic Alignment,N,China Light Industries Corporation,Skill Tier,A,A,U,Perfect Shock and Awe
+High End,Douglas & Harding,A,Douglas & Harding,Weapon Damage,A,A,O,A
+High End,Fenris Group AB,A,Fenris Group AB,Weapon Damage,A,A,O,A
+Gearset,Foundry Bulwark,S,Foundry Bulwark,Armor,A,,D,Process Refinery
+Gearset,Future Initiative,S,Future Initiative,Skill Tier,A,,U,Strategic Combat Support
+High End,Gila Guard,A,Gila Guard,Armor,A,A,D,A
+High End,Golan Gear Ltd,A,Golan Gear Ltd,Armor,A,A,U,A
+Named,Anarchist's Cookbook,N,Golan Gear Ltd,Weapon Damage,A,A,U,Perfectly Wicked
+High End,Grupo Sombra S.A.,A,Grupo Sombra S.A.,Weapon Damage,A,A,U,A
+High End,Hana-U Corporation,A,Hana-U Corporation,Skill Tier,A,A,O,A
+Named,Force Multiplier,N,Hana-U Corporation,Skill Tier,A,A,O,Perfect Combined Arms
+Gearset,Hard Wired,S,Hard Wired,Skill Tier,A,,U,Short Circuit
+High End,Murakami Industries,A,Murakami Industries,Skill Tier,A,A,U,A
+Gearset,Negotiator's Dilemma,S,Negotiator's Dilemma,Weapon Damage,A,,O,Critical Measures
+Gearset,Ongoing Directive,S,Ongoing Directive,Weapon Damage,A,,U,Trauma Specialist
+High End,Overlord Armaments,A,Overlord Armaments,Weapon Damage,A,A,O,A
+High End,Petrov Defense Group,A,Petrov Defense Group,Weapon Damage,A,A,O,A
+High End,Providence Defense,A,Providence Defense,Weapon Damage,A,A,O,A
+Named,The Gift,N,Providence Defense,Weapon Damage,A,A,O,Perfect Vigilance
+High End,Richter & Kaiser GmbH,A,Richter & Kaiser GmbH,Skill Tier,A,A,D,A
+High End,Sokolov Concern,A,Sokolov Concern,Weapon Damage,A,A,O,A
+Gearset,Striker's Battlegear,S,Striker's Battlegear,Weapon Damage,A,,O,Risk Management
+Gearset,System Corruption,S,System Corruption,Armor,A,,D,Multithreaded Execution
+Gearset,Tip of the Spear,S,Tip of the Spear,Weapon Damage,A,,O,Crossbow Expert
+Gearset,True Patriot,S,True Patriot,Armor,A,,D,Patriotic Boost
+High End,Wyvern Wear,A,Wyvern Wear,Skill Tier,A,A,U,A
+High End,Yaahl Gear,A,Yaahl Gear,Armor,A,A,O,A
+High End,Improvised Backpack,A,Crafted,A,A,A,U,A
+High End,"Walker, Harris & Co.",A,"Walker, Harris & Co.",Weapon Damage,A,A,O,A
+Named,Matador,N,"Walker, Harris & Co.",Weapon Damage,A,A,O,Perfect Adrenaline Rush
+Gearset,Eclipse Protocol,S,Eclipse Protocol,Skill Tier,A,,U,Symptom Aggravator
+High End,Empress International,A,Empress International,Skill Tier,A,A,U,A
+Gearset,Hunter's Fury,S,Hunter's Fury,Weapon Damage,A,,O,Overwhelming Force
+Gearset,Rigger,S,Rigger,Skill Tier,A,,U,Complete Uptime
+Named,Battery Pack,N,Empress International,Skill Tier,A,A,U,Perfectly Calculated
+Exotic,Memento,E,Exotic,Weapon Damage,,,U,Kill Confirmed
+High End,Belstone Armory,A,Belstone Armory,Armor,A,A,U,A
+Named,Liquid Engineer,N,Belstone Armory,Armor,A,A,U,Perfect Bloodsucker
+High End,Uzina Getica,A,Uzina Getica,Armor,A,A,A,
+Named,The Setup,N,Uzina Getica,Armor,A,A,A,Perfectly Opportunistic
+Gearset,Heartbreaker,S,Heartbreaker,Armor,A,,A,Cold
